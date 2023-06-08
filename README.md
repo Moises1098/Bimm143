@@ -29,6 +29,6 @@ Bioinformatics class
 
 - Class 17: **Vaccination rate mini project**
 
-- Class 18: **Mutational signatures of cancer mini project***
+- Class 18: **Mutational signatures of cancer mini project**
 
 - Class 19: **Mini Project: Investigating Pertussis Resurgence**
