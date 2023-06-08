@@ -1,0 +1,9 @@
+Successfully initiated launch of instance (i-0f63eb7d4a374f7e5)
+
+ssh -i "bimm143_moises.pem" 
+ubuntu@ec2-18-237-249-189.us-west-2.compute.amazonaws.com
+
+scp -i "bimm143_moises.pem"
+ubuntu@ec2-18-237-249-189.us-west-2.compute.amazonaws.com:~/work/*.tsv 
+results.tsv
+
