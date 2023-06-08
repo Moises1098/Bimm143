@@ -9,28 +9,26 @@ Bioinformatics class
 
 - Class 07: **Introduction to machine learning for Bioinformatics** 
 
-- Class 08:
+- Class 08: **Unsupervised Learning Analysis of Human Breast Cancer Cells**
 
-- Class 09:
+- Class 09: **Structural Bioinformatics (pt1)**
 
-- Class 10:
+- Class 10: **Structural Bioinformatics (pt2. Focus on new AlphaFold2)**
 
-- Class 11:
+- Class 10 Bonus: **Halloween Candy Mini-Project*
 
-- Class 12:
+- Class 11: **Genome informatics**
 
-- Class 13:
+- Class 12: **Transcriptomics and the analysis of RNA-Seq data**
 
-- Class 14:
+- Class 13: **RNA-Seq analysis mini-project**
 
-- Class 15:
+- Class 14: **Hands-on with Git and GitHub**
 
-- Class 16:
+- Class 15: **Essential UNIX for bioinformatics**
 
-- Class 17:
+- Class 17: **Vaccination rate mini project**
 
-- Class 18:
+- Class 18: **Mutational signatures of cancer mini project***
 
-- Class 19:
-
-- Class 20:
+- Class 19: **Mini Project: Investigating Pertussis Resurgence**
