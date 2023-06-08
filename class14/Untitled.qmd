@@ -1,0 +1,21 @@
+---
+title: "Lab Class 14 (GitHub Repo)"
+author: "Moises Gonzalez (A17579866)"
+format: html
+---
+
+# Connecting RStudio to GitHub
+
+## Create a Personal Access Token (PAT) on GitHub
+```{r}
+install.packages("usethis")
+library(usethis)
+create_github_token()
+```
+```{r}
+install.packages("gitcreds")
+library(gitcreds)
+gitcreds_set(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)
+```
+
+
