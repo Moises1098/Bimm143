@@ -15,7 +15,7 @@ Bioinformatics class
 
 - Class 10: **Structural Bioinformatics (pt2. Focus on new AlphaFold2)** [source code](https://github.com/Moises1098/Bimm143/tree/main/class10)
 
-- Class 10 Bonus: **Halloween Candy Mini-Project* [source code](https://github.com/Moises1098/Bimm143/tree/main/class10Bonus)
+- Class 10 Bonus: **Halloween Candy Mini-Project** [source code](https://github.com/Moises1098/Bimm143/tree/main/class10Bonus)
 
 - Class 11: **Genome informatics** [source code](https://github.com/Moises1098/Bimm143/tree/main/Lab%20Class11%20Pt.1%20(RNASeq%20Galaxy))
 
