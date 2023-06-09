@@ -15,20 +15,16 @@ Bioinformatics class
 
 - Class 10: **Structural Bioinformatics (pt2. Focus on new AlphaFold2)** [source code](https://github.com/Moises1098/Bimm143/tree/main/class10)
 
-- Class 11: **Halloween Candy Mini-Project** [source code](https://github.com/Moises1098/Bimm143/tree/main/class10Bonus)
+- Class 10 Bonus: **Halloween Candy Mini-Project** [source code](https://github.com/Moises1098/Bimm143/tree/main/class10Bonus)
 
-- Class 12: **Genome informatics** [source code](https://github.com/Moises1098/Bimm143/tree/main/Lab%20Class11%20Pt.1%20(RNASeq%20Galaxy))
+- Class 11: **Genome informatics** [source code](https://github.com/Moises1098/Bimm143/tree/main/Lab%20Class11%20Pt.1%20(RNASeq%20Galaxy))
 
-- Class 13: **Transcriptomics and the analysis of RNA-Seq data** [source code](https://github.com/Moises1098/Bimm143/tree/main/class12)
+- Class 12: **Transcriptomics and the analysis of RNA-Seq data** [source code](https://github.com/Moises1098/Bimm143/tree/main/class12)
 
-- Class 14: **RNA-Seq analysis mini-project** [source code](https://github.com/Moises1098/Bimm143/tree/main/class13)
+- Class 13: **RNA-Seq analysis mini-project** [source code](https://github.com/Moises1098/Bimm143/tree/main/class13)
 
-- Class 15: **Hands-on with Git and GitHub** [source code](https://github.com/Moises1098/Bimm143/tree/main/class14)
+- Class 14: **Hands-on with Git and GitHub** [source code](https://github.com/Moises1098/Bimm143/tree/main/class14)
 
-- Class 16: **Essential UNIX for bioinformatics** [source code](https://github.com/Moises1098/Bimm143/tree/main/class15)
+- Class 15: **Essential UNIX for bioinformatics** [source code](https://github.com/Moises1098/Bimm143/tree/main/class15)
 
-- Class 17: **Vaccination rate mini project** [source code]()
-
-- Class 18: **Mutational signatures of cancer mini project** [source code]()
-
-- Class 19: **Mini Project: Investigating Pertussis Resurgence** [source code](https://github.com/Moises1098/Bimm143/tree/main/class17)
+- Class 17: **Mini Project: Investigating Pertussis Resurgence** [source code](https://github.com/Moises1098/Bimm143/tree/main/class17)
